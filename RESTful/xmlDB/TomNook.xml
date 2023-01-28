@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<schedule user="TomNook" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validate.xsd">
+  <event id="Tom881Tas">
+    <title>malamanam malanalanam </title>
+    <type>Task</type>
+    <date repeat="Daily">
+      <day>26</day>
+      <month>May</month>
+      <startingTime>09:30 AM</startingTime>
+      <endingTime>06:30 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Timmy</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Tommy</name>
+        <email/>
+      </guest>
+      <guest>
+        <name/>
+        <email>isabelle@gmail.com</email>
+      </guest>
+    </guests>
+    <venue>Nooks Cranny</venue>
+    <description>mlam mlawlalalalwalalawalalanlam (and other various animal crossing noises)</description>
+  </event>
+  <event id="Tom431Eve">
+    <title>Further Capitalism</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>05</day>
+      <month>June</month>
+      <startingTime>07:00 AM</startingTime>
+      <endingTime>07:30 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>1 trillion bells</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Isabelle</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Resident Services</venue>
+    <description>Dupe some poor students into playing a game that simulates being in debt so they can escape the reality where they are currently in debt</description>
+  </event>
+  <event id="Tom743Tas">
+    <title>Get Pants Tailored</title>
+    <type>Task</type>
+    <date repeat="Monthly">
+      <day>02</day>
+      <month>May</month>
+      <startingTime>01:45 PM</startingTime>
+      <endingTime>02:35 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Mable</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Label</name>
+        <email>label@ables.co.za</email>
+      </guest>
+    </guests>
+    <venue>Able Sisters</venue>
+    <description/>
+  </event>
+  <event id="Tom585App">
+    <title>Help Tayla get an Upgrade</title>
+    <type>Appointment</type>
+    <date repeat="Monthly">
+      <day>14</day>
+      <month>May</month>
+      <startingTime>11:55 AM</startingTime>
+      <endingTime>12:35 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Isabelle</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Tayla</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Resident Services</venue>
+    <description>Make her pay 30 000000000000000000000 bells for a side room for her house </description>
+  </event>
+  <event id="Tom398App">
+    <title>Lunch with Harv</title>
+    <type>Appointment</type>
+    <date repeat="Weekly">
+      <day>16</day>
+      <month>June</month>
+      <startingTime>12:40 PM</startingTime>
+      <endingTime>02:40 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email>harv@phototopia.co.za</email>
+      </guest>
+    </guests>
+    <venue/>
+    <description>Ask about getting a portrait of me taken for Resident Services</description>
+  </event>
+  <event id="Tom499Eve">
+    <title>Receive a new villager</title>
+    <type>Event</type>
+    <date repeat="Weekly">
+      <day>13</day>
+      <month>June</month>
+      <startingTime>05:36 AM</startingTime>
+      <endingTime>05:37 PM</endingTime>
+    </date>
+    <guests/>
+    <venue>Campsite</venue>
+    <description>Potential new debtor *ahem* resident for the island</description>
+  </event>
+  <event id="Tom437Eve">
+    <title>Fishing Tourney</title>
+    <type>Event</type>
+    <date repeat="Monthly">
+      <day>25</day>
+      <month>April</month>
+      <startingTime>09:00 AM</startingTime>
+      <endingTime>07:00 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>CJ Otter</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Spider Crab</name>
+        <email>clamshell@beach.com</email>
+      </guest>
+    </guests>
+    <venue>The Beach</venue>
+    <description>Plug Pen 15 island on CJ's socials</description>
+  </event>
+  <event id="Tom954Eve">
+    <title>Cherry Blossom Season</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>08</day>
+      <month>April</month>
+      <startingTime>12:04 PM</startingTime>
+      <endingTime>03:45 PM</endingTime>
+    </date>
+    <guests/>
+    <venue>Pen 15 Island</venue>
+    <description/>
+  </event>
+  <event id="Tom348Tas">
+    <title>Bunny Day</title>
+    <type>Task</type>
+    <date repeat="Daily">
+      <day>21</day>
+      <month>April</month>
+      <startingTime>09:45 AM</startingTime>
+      <endingTime>03:54 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Zipper T. Bunny</name>
+        <email>creepyBunny@easter.com</email>
+      </guest>
+      <guest>
+        <name>Isabelle</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Town Square</venue>
+    <description>Don't forget the egg hunt!</description>
+  </event>
+  <event id="Tom477Eve">
+    <title>Bug off</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>23</day>
+      <month>July</month>
+      <startingTime>11:50 AM</startingTime>
+      <endingTime>08:52 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Flick</name>
+        <email>bugsaremylife@acnh.co.za</email>
+      </guest>
+    </guests>
+    <venue>Forest</venue>
+    <description>Get figurine of Monarch Butterfly</description>
+  </event>
+  <event id="Tom716Eve">
+    <title>Tarantula Hunting Day</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>12</day>
+      <month>July</month>
+      <startingTime>09:55 AM</startingTime>
+      <endingTime>12:55 AM</endingTime>
+    </date>
+    <guests/>
+    <venue>Tarantula Island</venue>
+    <description>Don't forget to bring your net!</description>
+  </event>
+  <event id="Tom067Eve">
+    <title>International Museum Day</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>19</day>
+      <month>September</month>
+      <startingTime>07:55 AM</startingTime>
+      <endingTime>04:55 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Blathers</name>
+        <email>blatherstheowl@museumFinds.co.za</email>
+      </guest>
+      <guest>
+        <name>Celeste</name>
+        <email>celeste@astrologyReadings.com</email>
+      </guest>
+    </guests>
+    <venue>Museum</venue>
+    <description>Fossil sight-seeing</description>
+  </event>
+  <event id="Tom153Eve">
+    <title>Brewster Coffee Run</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>04</day>
+      <month>September</month>
+      <startingTime>08:00 AM</startingTime>
+      <endingTime>08:30 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Isabelle</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Brewster's Cafe</venue>
+    <description>Isabelle I would like a caramel macchiato please.</description>
+  </event>
+</schedule>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<schedule user="BobRoss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validate.xsd">
+  <event id="Bob086Eve">
+    <title>Paint Happy little trees</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>16</day>
+      <month>June</month>
+      <startingTime>06:10 AM</startingTime>
+      <endingTime>08:36 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Happy trees</name>
+        <email>happylittletrees@gmail.com</email>
+      </guest>
+    </guests>
+    <venue>Painting Studio</venue>
+    <description>Give them some friends :)</description>
+  </event>
+  <event id="Bob025Tas">
+    <title>Paint Happy Flowers</title>
+    <type>Task</type>
+    <date repeat="Weekly">
+      <day>03</day>
+      <month>June</month>
+      <startingTime>11:40 AM</startingTime>
+      <endingTime>03:40 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Hayao Miyazaki</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Claude Monet</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Pretty Scenery Art Club</venue>
+    <description/>
+  </event>
+  <event id="Bob711App">
+    <title>Tea Party</title>
+    <type>Appointment</type>
+    <date repeat="Daily">
+      <day>26</day>
+      <month>June</month>
+      <startingTime>02:42 PM</startingTime>
+      <endingTime>05:40 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>The Sun</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>The Clouds</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>The Trees</name>
+        <email>andflowers@gmail.com</email>
+      </guest>
+    </guests>
+    <venue>Canvas Cafe</venue>
+    <description>Happy little teas :)</description>
+  </event>
+  <event id="Bob066Eve">
+    <title>Join the Military</title>
+    <type>Event</type>
+    <date repeat="Monthly">
+      <day>16</day>
+      <month>March</month>
+      <startingTime>05:45 AM</startingTime>
+      <endingTime>08:40 PM</endingTime>
+    </date>
+    <guests/>
+    <venue>United States Air Force</venue>
+    <description>Turns out Bob Ross was in the military, and even rose to the rank of master sergeant. When he left he decided never to raise his voice again.</description>
+  </event>
+  <event id="Bob043Eve">
+    <title>Painting Alaskan Scenery</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>17</day>
+      <month>May</month>
+      <startingTime>07:06 AM</startingTime>
+      <endingTime>08:50 PM</endingTime>
+    </date>
+    <guests/>
+    <venue>Alla Prima Painter's club</venue>
+    <description>Get that cash</description>
+  </event>
+  <event id="Bob029Eve">
+    <title>Life Studies</title>
+    <type>Event</type>
+    <date repeat="Weekly">
+      <day>01</day>
+      <month>May</month>
+      <startingTime>04:50 PM</startingTime>
+      <endingTime>07:55 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Leonardo</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Michelangelo</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Donatello</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Rafael</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Master Splinter</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Florence, Italy</venue>
+    <description>Life studies with the lads</description>
+  </event>
+  <event id="Bob321Eve">
+    <title>Beat the Devil out of it</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>13</day>
+      <month>March</month>
+      <startingTime>10:00 AM</startingTime>
+      <endingTime>02:00 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Lucifer</name>
+        <email>devilManagement@hotmail.com</email>
+      </guest>
+    </guests>
+    <venue>Bob's Studio</venue>
+    <description>Probably in a game of chess boxing or something</description>
+  </event>
+  <event id="Bob325Eve">
+    <title>Bring Joy to Everyone</title>
+    <type>Event</type>
+    <date repeat="Weekly">
+      <day>14</day>
+      <month>April</month>
+      <startingTime>08:07 AM</startingTime>
+      <endingTime>06:06 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Steve Irwin</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Marie Kondo</name>
+        <email>sparksJoy@gmail.com</email>
+      </guest>
+      <guest>
+        <name>Betty White</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>The Whole World</venue>
+    <description>With My Happy lil trees :)</description>
+  </event>
+  <event id="Bob393Tas">
+    <title>The Joy of Painting on TV</title>
+    <type>Task</type>
+    <date repeat="Weekly">
+      <day>10</day>
+      <month>April</month>
+      <startingTime>12:10 PM</startingTime>
+      <endingTime>03:10 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Steve Ross</name>
+        <email>bobRossHadAnAffair?@gmail.com</email>
+      </guest>
+      <guest>
+        <name>Annette Kowalski</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Happy Painting Studio </venue>
+    <description>Painting my happy little scenery :)</description>
+  </event>
+  <event id="Bob873App">
+    <title>Get a Google Doodle of me</title>
+    <type>Appointment</type>
+    <date repeat="Monthly">
+      <day>01</day>
+      <month>May</month>
+      <startingTime>09:44 AM</startingTime>
+      <endingTime>12:21 PM</endingTime>
+    </date>
+    <guests/>
+    <venue/>
+    <description/>
+  </event>
+  <event id="Bob478Eve">
+    <title>Charity Stream</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>24</day>
+      <month>July</month>
+      <startingTime>06:10 AM</startingTime>
+      <endingTime>06:20 PM</endingTime>
+    </date>
+    <guests/>
+    <venue>Twitch</venue>
+    <description>Donate the funds to St. Jude's </description>
+  </event>
+</schedule>

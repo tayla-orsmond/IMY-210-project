@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<schedule user="Daddylonglegs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validate.xsd">
+  <event id="Dad773Eve">
+    <title>Mommy's B-day</title>
+    <type>Event</type>
+    <date repeat="Weekly">
+      <day>19</day>
+      <month>May</month>
+      <startingTime>09:50 PM</startingTime>
+      <endingTime>02:24 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>The Web Nightclub</venue>
+    <description>You know it's going down.</description>
+  </event>
+  <event id="Dad735App">
+    <title>Coffee date</title>
+    <type>Appointment</type>
+    <date repeat="Monthly">
+      <day>06</day>
+      <month>May</month>
+      <startingTime>03:30 PM</startingTime>
+      <endingTime>04:30 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Mommylonglegs</name>
+        <email>momma.long@gmail.com</email>
+      </guest>
+      <guest>
+        <name>Margot Robbie</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Scarlet Johansson</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Beyonce</name>
+        <email>queenbey@hotmail.com</email>
+      </guest>
+    </guests>
+    <venue/>
+    <description>Coffee date with the girlies xxx</description>
+  </event>
+  <event id="Dad474Tas">
+    <title>8-leg Day</title>
+    <type>Task</type>
+    <date repeat="Daily">
+      <day>16</day>
+      <month>June</month>
+      <startingTime>09:45 AM</startingTime>
+      <endingTime>12:36 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue/>
+    <description>Gotta get those spidery gainz</description>
+  </event>
+  <event id="Dad450Tas">
+    <title>Pottery Class</title>
+    <type>Task</type>
+    <date repeat="Monthly">
+      <day>18</day>
+      <month>February</month>
+      <startingTime>11:35 AM</startingTime>
+      <endingTime>03:46 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Babylonglegs</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Mommylonglegs</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Pippin's Poppin Pottery</venue>
+    <description>We're really good at pottery because of, you know, all these legs.</description>
+  </event>
+  <event id="Dad510Eve">
+    <title>Chess-Boxing</title>
+    <type>Event</type>
+    <date repeat="Monthly">
+      <day>28</day>
+      <month>July</month>
+      <startingTime>08:43 AM</startingTime>
+      <endingTime>02:45 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue/>
+    <description>It's a real thing!</description>
+  </event>
+  <event id="Dad037Eve">
+    <title>Tandem Bike Meet</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>23</day>
+      <month>April</month>
+      <startingTime>12:44 PM</startingTime>
+      <endingTime>05:43 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue/>
+    <description>I bet I can beat him </description>
+  </event>
+  <event id="Dad275Eve">
+    <title>IMY 210 Exam</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>13</day>
+      <month>June</month>
+      <startingTime>10:45 AM</startingTime>
+      <endingTime>12:45 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Diffelonglegs</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>The IT building</venue>
+    <description/>
+  </event>
+  <event id="Dad849App">
+    <title>Dentist Appointment</title>
+    <type>Appointment</type>
+    <date repeat="Monthly">
+      <day>18</day>
+      <month>July</month>
+      <startingTime>07:49 AM</startingTime>
+      <endingTime>08:27 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue/>
+    <description>Spiders don't even have teeth!</description>
+  </event>
+  <event id="Dad779Eve">
+    <title>Visit Terrel</title>
+    <type>Event</type>
+    <date repeat="Monthly">
+      <day>04</day>
+      <month>March</month>
+      <startingTime>02:52 AM</startingTime>
+      <endingTime>04:56 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Texas</venue>
+    <description/>
+  </event>
+  <event id="Dad878App">
+    <title>Gardening Expo</title>
+    <type>Appointment</type>
+    <date repeat="Daily">
+      <day>20</day>
+      <month>April</month>
+      <startingTime>04:30 AM</startingTime>
+      <endingTime>04:50 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Weed whackers Association</venue>
+    <description>You know why this is here</description>
+  </event>
+  <event id="Dad787App">
+    <title>Lad isbjørnene danse</title>
+    <type>Appointment</type>
+    <date repeat="Weekly">
+      <day>12</day>
+      <month>June</month>
+      <startingTime>03:01 PM</startingTime>
+      <endingTime>04:30 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue/>
+    <description>Movie Night with mommy &lt;3</description>
+  </event>
+  <event id="Dad877Eve">
+    <title>Baby Birthday Shopping</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>24</day>
+      <month>June</month>
+      <startingTime>10:11 AM</startingTime>
+      <endingTime>06:15 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Festival Mall Alabang</venue>
+    <description>Baby's birthday sugar shopping</description>
+  </event>
+  <event id="Dad761App">
+    <title>Baby's Birthday Bash</title>
+    <type>Appointment</type>
+    <date repeat="Monthly">
+      <day>24</day>
+      <month>June</month>
+      <startingTime>02:00 AM</startingTime>
+      <endingTime>04:30 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Benz, Nordwestmecklenburg</venue>
+    <description/>
+  </event>
+  <event id="Dad819Eve">
+    <title>Men's triple jump</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>05</day>
+      <month>February</month>
+      <startingTime>11:11 AM</startingTime>
+      <endingTime>12:34 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue/>
+    <description>Daddlylongjump</description>
+  </event>
+</schedule>

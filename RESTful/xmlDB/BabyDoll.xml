@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<schedule user="BabyDoll" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validate.xsd">
+  <event id="Bab613App">
+    <title>Cursed Hangout</title>
+    <type>Appointment</type>
+    <date repeat="Monthly">
+      <day>20</day>
+      <month>June</month>
+      <startingTime>12:13 PM</startingTime>
+      <endingTime>02:08 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Chucky</name>
+        <email>cheese@pizza.com</email>
+      </guest>
+      <guest>
+        <name>Annabelle</name>
+        <email>pepper@email.com</email>
+      </guest>
+    </guests>
+    <venue>Abandoned Park</venue>
+    <description>Lunch with the lads</description>
+  </event>
+  <event id="Bab811App">
+    <title>Porcelain Makeover </title>
+    <type>Appointment</type>
+    <date repeat="Monthly">
+      <day>08</day>
+      <month>June</month>
+      <startingTime>07:12 PM</startingTime>
+      <endingTime>09:15 PM</endingTime>
+    </date>
+    <guests/>
+    <venue>AcursedMakeover</venue>
+    <description>You know like that scene from Toy Story with Woody and that doll restoration dude? Yeah that.</description>
+  </event>
+  <event id="Bab282Tas">
+    <title>Haunting Abandoned Park</title>
+    <type>Task</type>
+    <date repeat="Weekly">
+      <day>13</day>
+      <month>April</month>
+      <startingTime>12:12 AM</startingTime>
+      <endingTime>03:15 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Charlie</name>
+        <email>charlietheghost@hotmail.com</email>
+      </guest>
+    </guests>
+    <venue>Abandoned Park</venue>
+    <description/>
+  </event>
+  <event id="Bab083Eve">
+    <title>Haunting Abandoned Mall</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>06</day>
+      <month>April</month>
+      <startingTime>09:16 PM</startingTime>
+      <endingTime>03:15 AM</endingTime>
+    </date>
+    <guests/>
+    <venue>Abandoned Mall</venue>
+    <description>Shopping day &lt;333</description>
+  </event>
+  <event id="Bab756Eve">
+    <title>Haunting School</title>
+    <type>Event</type>
+    <date repeat="Weekly">
+      <day>20</day>
+      <month>March</month>
+      <startingTime>06:17 AM</startingTime>
+      <endingTime>07:18 AM</endingTime>
+    </date>
+    <guests/>
+    <venue>University of Pretoria</venue>
+    <description>OoooOoh Deadlines!</description>
+  </event>
+  <event id="Bab781App">
+    <title>Train Ride </title>
+    <type>Appointment</type>
+    <date repeat="Daily">
+      <day>30</day>
+      <month>March</month>
+      <startingTime>07:22 AM</startingTime>
+      <endingTime>08:22 AM</endingTime>
+    </date>
+    <guests/>
+    <venue>Beeston railway station</venue>
+    <description>Weeeeeeee :)</description>
+  </event>
+  <event id="Bab977Tas">
+    <title>'Haunt' Ice cream parlor</title>
+    <type>Task</type>
+    <date repeat="Weekly">
+      <day>10</day>
+      <month>April</month>
+      <startingTime>05:19 PM</startingTime>
+      <endingTime>06:20 PM</endingTime>
+    </date>
+    <guests/>
+    <venue/>
+    <description>Starbucks is having a special</description>
+  </event>
+  <event id="Bab806Eve">
+    <title>Stare Creepily</title>
+    <type>Event</type>
+    <date repeat="Monthly">
+      <day>18</day>
+      <month>May</month>
+      <startingTime>08:23 PM</startingTime>
+      <endingTime>11:22 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Other creepy doll</name>
+        <email>withanextrapairofeyes@???.com</email>
+      </guest>
+      <guest>
+        <name>Shadow in the corner</name>
+        <email>shadow@association.co.za</email>
+      </guest>
+      <guest>
+        <name>Creaky cupboard</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue/>
+    <description>It's a full-time job</description>
+  </event>
+  <event id="Bab880Eve">
+    <title>Wedding</title>
+    <type>Event</type>
+    <date repeat="Weekly">
+      <day>04</day>
+      <month>July</month>
+      <startingTime>07:00 AM</startingTime>
+      <endingTime>07:09 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>The girl</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>The TV</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>The DVD</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Dingy apartment</venue>
+    <description>Hope they don't forget the ring</description>
+  </event>
+  <event id="Bab098Eve">
+    <title>Star in Horror Movie</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>13</day>
+      <month>May</month>
+      <startingTime>06:28 AM</startingTime>
+      <endingTime>08:29 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Chucky</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>A demon/ghost</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Adoring Child</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Any child's bedroom</venue>
+    <description>Lead role as usual</description>
+  </event>
+  <event id="Bab751App">
+    <title>Become possessed</title>
+    <type>Appointment</type>
+    <date repeat="Weekly">
+      <day>22</day>
+      <month>July</month>
+      <startingTime>06:28 AM</startingTime>
+      <endingTime>12:25 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Friendly Demon</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Horror Avenue</venue>
+    <description>Open invite</description>
+  </event>
+  <event id="Bab141Tas">
+    <title>Mess the furniture a bit</title>
+    <type>Task</type>
+    <date repeat="Monthly">
+      <day>17</day>
+      <month>March</month>
+      <startingTime>05:29 AM</startingTime>
+      <endingTime>06:15 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email>curious.demon@myhouse.co.za</email>
+      </guest>
+    </guests>
+    <venue/>
+    <description>Just for shits and giggles</description>
+  </event>
+</schedule>

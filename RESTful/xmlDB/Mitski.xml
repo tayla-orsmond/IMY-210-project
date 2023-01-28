@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<schedule user="Mitski" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validate.xsd">
+  <event id="Mit359Eve">
+    <title>Laundry Day</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>30</day>
+      <month>July</month>
+      <startingTime>03:22 PM</startingTime>
+      <endingTime>09:28 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Laurel Hell Laundry</venue>
+    <description>Wash my machine heart</description>
+  </event>
+  <event id="Mit654Eve">
+    <title>Valentine's Day</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>14</day>
+      <month>February</month>
+      <startingTime>10:50 AM</startingTime>
+      <endingTime>09:28 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Valentine, Texas</venue>
+    <description>Valentine's in Texas</description>
+  </event>
+  <event id="Mit145Eve">
+    <title>Dog race</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>27</day>
+      <month>May</month>
+      <startingTime>02:26 PM</startingTime>
+      <endingTime>06:30 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue/>
+    <description>I have a feeling these dogs will lose but imma still bet on em</description>
+  </event>
+  <event id="Mit226Eve">
+    <title>Clubhouse Meeting</title>
+    <type>Event</type>
+    <date repeat="Monthly">
+      <day>03</day>
+      <month>June</month>
+      <startingTime>05:30 AM</startingTime>
+      <endingTime>08:30 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Mickey</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Minnie</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Goofy</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Mitski Mouse Clubhouse </venue>
+    <description>M-O-U-S-E</description>
+  </event>
+  <event id="Mit642Eve">
+    <title>Pearl Diving </title>
+    <type>Event</type>
+    <date repeat="Monthly">
+      <day>18</day>
+      <month>June</month>
+      <startingTime>12:35 AM</startingTime>
+      <endingTime>05:41 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Bone Lake</venue>
+    <description>I fell in </description>
+  </event>
+  <event id="Mit049App">
+    <title>Spa Day</title>
+    <type>Appointment</type>
+    <date repeat="Monthly">
+      <day>03</day>
+      <month>May</month>
+      <startingTime>10:45 AM</startingTime>
+      <endingTime>03:05 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Lush Spa</venue>
+    <description>Become Liquid Smooth</description>
+  </event>
+  <event id="Mit689Eve">
+    <title>Halloween</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>31</day>
+      <month>October</month>
+      <startingTime>10:54 PM</startingTime>
+      <endingTime>01:55 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue/>
+    <description>Gonna dress up as a bag of bones</description>
+  </event>
+  <event id="Mit373App">
+    <title>Arson Birthday bash</title>
+    <type>Appointment</type>
+    <date repeat="Daily">
+      <day>27</day>
+      <month>July</month>
+      <startingTime>02:55 PM</startingTime>
+      <endingTime>06:59 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>A Burning Hill</venue>
+    <description>You weren't there at all</description>
+  </event>
+  <event id="Mit073Tas">
+    <title>Work </title>
+    <type>Task</type>
+    <date repeat="Daily">
+      <day>17</day>
+      <month>June</month>
+      <startingTime>02:56 AM</startingTime>
+      <endingTime>02:56 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>The Knife</venue>
+    <description>No good guys</description>
+  </event>
+  <event id="Mit789Tas">
+    <title>Die</title>
+    <type>Task</type>
+    <date repeat="Daily">
+      <day>17</day>
+      <month>June</month>
+      <startingTime>03:00 AM</startingTime>
+      <endingTime>06:02 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>The Knife</venue>
+    <description>I was right but I just chose wrong</description>
+  </event>
+  <event id="Mit914App">
+    <title>Fly to Texas</title>
+    <type>Appointment</type>
+    <date repeat="Monthly">
+      <day>14</day>
+      <month>May</month>
+      <startingTime>06:03 AM</startingTime>
+      <endingTime>09:03 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Texas Resnikoff</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Texas</venue>
+    <description>All this turbulence wasn't forecasted</description>
+  </event>
+  <event id="Mit594Tas">
+    <title>Redecorate Square Room</title>
+    <type>Task</type>
+    <date repeat="Daily">
+      <day>19</day>
+      <month>June</month>
+      <startingTime>01:00 AM</startingTime>
+      <endingTime>04:00 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Your room</venue>
+    <description>I'll try my hardest</description>
+  </event>
+  <event id="Mit368Eve">
+    <title>????</title>
+    <type>Event</type>
+    <date repeat="Daily">
+      <day>05</day>
+      <month>April</month>
+      <startingTime>06:05 PM</startingTime>
+      <endingTime>09:07 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name/>
+        <email/>
+      </guest>
+    </guests>
+    <venue>Gardenia Park</venue>
+    <description>Nobody knows my lover is buried underground</description>
+  </event>
+  <event id="Mit231Tas">
+    <title>Darling's Violin Rehersal</title>
+    <type>Task</type>
+    <date repeat="Daily">
+      <day>22</day>
+      <month>April</month>
+      <startingTime>11:09 AM</startingTime>
+      <endingTime>11:31 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>Darling</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>The sea</venue>
+    <description>We'll manage somehow</description>
+  </event>
+  <event id="Mit555Eve">
+    <title>Scream Your Name</title>
+    <type>Appointment</type>
+    <date repeat="Weekly">
+      <day>06</day>
+      <month>June</month>
+      <startingTime>12:10 AM</startingTime>
+      <endingTime>06:15 AM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>The Setting Sun</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Everybody (watching)</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Your neck</name>
+        <email/>
+      </guest>
+      <guest>
+        <name>Our every move</name>
+        <email/>
+      </guest>
+    </guests>
+    <venue>The City of my Heart</venue>
+    <description>Atop of every roof</description>
+  </event>
+  <event id="Mit112App">
+    <title>My Birthday Bop</title>
+    <type>Appointment</type>
+    <date repeat="Monthly">
+      <day>27</day>
+      <month>September</month>
+      <startingTime>10:24 AM</startingTime>
+      <endingTime>01:15 PM</endingTime>
+    </date>
+    <guests>
+      <guest>
+        <name>A girl who looks just like me</name>
+        <email>overwhelmingcleanfeeling@gmail.com</email>
+      </guest>
+    </guests>
+    <venue>Laurel Hell Cafe</venue>
+    <description>Should've been me, sorry</description>
+  </event>
+</schedule>

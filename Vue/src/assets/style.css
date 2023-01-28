@@ -1,0 +1,292 @@
+/* Tayla Orsmond u21467456 */
+@font-face {
+    font-family: "poppins";
+    src: local("poppins"),
+        url(fonts/poppins-light-webfont.woff) format("woff");
+}
+@font-face {
+    font-family: "fredoka";
+    src: local("fredoka"),
+        url(fonts/FredokaOne-Regular.ttf) format("truetype");
+}
+:root{
+    --main: #2D2A32;
+    --accent1: #9D8DF1;
+    --accent2: #D7CBF6;
+    --accent3: #c8ea7e;
+    --darkeraccent3: #a7d14d;
+    --lighteraccent3: #DEEDC0;
+    --bg: #FAFFFD;
+    --accbg: #F2EEFC;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    background-color: var(--bg);
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+#app {
+    color: var(--main);
+    font-family: poppins, Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    width: 100%;
+    height: 100%;
+}
+#app textarea,
+#app input,
+#app a{
+    font-size: 100%;
+    font-family: poppins, Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+#app a{
+    text-decoration: none;
+}
+#app input[type="text"],
+#app input[type="password"],
+#app input[type="text"],
+input[type="radio"],
+input[type="date"],
+input[type="time"],
+#app textarea,
+#app input::placeholder{
+    color: var(--main);
+}
+#app input,
+#app textarea{
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background-color: inherit;
+    width: 90%;
+    padding: 10px 20px 12px 8px;
+    margin: 10px;
+    border-bottom: 1px solid var(--main);
+    transition: border 0.5s, box-shadow 0.4s, font-size 0.4s;
+}
+#app input[type="radio"]{
+    width: 10%;
+}
+#app input[type="date"],
+#app input[type="time"]{
+    width: 20%;
+}
+#app input:hover{
+    border-bottom: 1px solid var(--bg);
+}
+#app textarea:focus,
+#app input:focus{
+    font-size: 110%;
+    border-bottom: 1px solid var(--bg);
+    /* box-shadow: inset 10px 0px 100px #FAFFFD; */
+}
+#app h1, 
+#app h2{
+    color: var(--bg);
+    font-family: fredoka, Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 700%;
+    margin-bottom: 0;
+}
+#app h1~p{
+    color: var(--bg);
+}
+#app h2{
+    color: var(--main);
+    font-size: 400%;
+    font-weight: 200;
+}
+#app h3{
+    font-size: 200%;
+    font-weight: 200;
+}
+#app ol,
+#app ul{
+    list-style-type: none;
+}
+.col{
+    color: var(--accent2);
+}
+.col2{
+    color: var(--darkeraccent3);
+}
+.invisible{
+    display: none;
+}
+.login-box{
+    background-color: var(--accent1);
+    padding: 20px;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-box div{
+    margin: 20px;
+}
+.btn{
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 4px;
+    background-color: var(--accent2);
+    transition: color 0.4s, background-color 0.6s;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: var(--accent3);
+}
+.cal-main{
+    background-color: var(--accbg);
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+.cal-select{
+    flex-basis: 20%;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+    border-right: 5px double var(--accent1);
+}
+.cal-box{
+    flex-basis: 80%;
+    padding: 40px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+.cal-title{
+    border-bottom: 5px solid var(--accent2);
+    border-radius: 2px;
+}
+.cal-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.cal-month-select{
+    font-size: 150%;
+    font-weight: 600;
+    margin: 10px;
+}
+.cal-month-select span{
+    margin: 0 10px;
+}
+
+.cal-month-select span:hover{
+    cursor: pointer;
+    color: var(--accent1);
+}
+.cal-grid{
+    background-color: var(--bg);
+    display: flex;
+    flex-wrap: wrap;
+    height: 50vh;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.cal-weekdays{
+    background-color: var(--bg);
+    padding: 10px;
+    box-sizing: border-box;
+}
+.cal-weekdays ol{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.cal-weekdays li{
+    flex-basis: calc(100% /7);
+}
+.cal-day{
+    font-size: 110%;
+    color: var(--accent2);
+    font-weight: 600;
+    flex-basis: 14%;
+    min-height: calc(100%/6);
+}
+.cal-day-other{
+    color: var(--accbg);
+}
+.cal-day-today{
+    color: var(--accent3);
+}
+.event-item{
+    font-size: 80%;
+}
+.edit-event{
+    width: 40%;
+    height: 100%;
+    color: var(--main);
+    font-size: 90%;
+    font-weight: 300;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 40px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: var(--lighteraccent3);
+}
+.edit-event ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.edit-event-inner{
+    height: 100%;
+    overflow-y: auto;
+}
+#app .edit-event .btn{
+    margin: 8px;
+}
+#app input[type="radio"]{
+    appearance: none;
+    background-color: inherit;
+    margin: 0 10px;
+    padding: 8px;
+    width: 1px;
+    color: var(--accent1);
+    border: 1px solid var(--accent1);
+    border-radius: 50%;
+    transition: background-color 0.4s;
+}
+#app input[type="radio"]:checked{
+    background-color: var(--accent2);
+}
+#app select{
+    background-color: var(--bg);
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-family: inherit;
+}
+.edit-event .btn{
+    width: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.ico{
+    width: 100%;
+}
+.s{
+    width: 1%;
+}
+.cal-select{
+    list-style-image: url(star-solid.svg);
+    list-style-position: inside;
+}

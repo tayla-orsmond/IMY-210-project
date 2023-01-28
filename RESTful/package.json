@@ -1,0 +1,28 @@
+{
+  "name": "scheduleapi",
+  "version": "1.0.0",
+  "description": "RESTful API using node for IMY 210 scheduler application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"testing server\" && exit 0",
+    "start": "npm i cors express body-parser fs xml2js nodemon && nodemon server.js"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Node",
+    "node.js"
+  ],
+  "author": "Tayla Orsmond (u21467456)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
